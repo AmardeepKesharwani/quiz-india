@@ -83,7 +83,7 @@ img {
   transition: 0.3s ease;
 }
 .nav__toggler span::after {
-  top: -8px;
+  top: -8px; 
 }
 .nav__toggler span::before {
   bottom: -8px;

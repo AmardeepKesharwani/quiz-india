@@ -3,7 +3,7 @@ const question = [
   {
    ques:"When is India’s Independence Day?",
    options:["August 15","October 31","January 1","July 14"],
-   currect:0,
+   currect:0, 
   },
   {
   ques:"Indian's largest city by population",

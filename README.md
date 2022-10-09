@@ -1,7 +1,7 @@
 # Quiz India
 
 **The best online learning site for Indian Gk**
-Read here with all the answers to all the questions asked in the competitive examinations related to India.
+Read here with all the answers to all the questions asked in the competitive examinations related to India. 
 
 #### [view website](https://v2vkart.vercel.app)
 
