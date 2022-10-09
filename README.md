@@ -3,7 +3,7 @@
 **The best online learning site for Indian Gk**
 Read here with all the answers to all the questions asked in the competitive examinations related to India. 
 
-#### [view website](https://v2vkart.vercel.app)
+##### [https://amardeepkesharwani.github.io/quiz-india](https://amardeepkesharwani.github.io/quiz-india/)
 
 <img src="https://github.com/AmardeepKesharwani/v2vkart-next-js/blob/main/public/screenshot/home.jpg" alt="" width="800"/>
 <img src="https://github.com/AmardeepKesharwani/v2vkart-next-js/blob/main/public/screenshot/products.jpg" alt="" width="800"/>
